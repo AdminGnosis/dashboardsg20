@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/gestell/g20/static/css/main.78ba73a0.chunk.css",
+    "main.js": "/gestell/g20/static/js/main.5598a31d.chunk.js",
+    "main.js.map": "/gestell/g20/static/js/main.5598a31d.chunk.js.map",
+    "runtime-main.js": "/gestell/g20/static/js/runtime-main.5fd6460c.js",
+    "runtime-main.js.map": "/gestell/g20/static/js/runtime-main.5fd6460c.js.map",
+    "xlsx.js": "/gestell/g20/static/js/xlsx.abce7707.chunk.js",
+    "xlsx.js.map": "/gestell/g20/static/js/xlsx.abce7707.chunk.js.map",
+    "static/css/3.af3c1da9.chunk.css": "/gestell/g20/static/css/3.af3c1da9.chunk.css",
+    "static/js/3.76753332.chunk.js": "/gestell/g20/static/js/3.76753332.chunk.js",
+    "static/js/3.76753332.chunk.js.map": "/gestell/g20/static/js/3.76753332.chunk.js.map",
+    "static/js/4.ad80ff3a.chunk.js": "/gestell/g20/static/js/4.ad80ff3a.chunk.js",
+    "static/js/4.ad80ff3a.chunk.js.map": "/gestell/g20/static/js/4.ad80ff3a.chunk.js.map",
+    "static/js/5.5b519bfe.chunk.js": "/gestell/g20/static/js/5.5b519bfe.chunk.js",
+    "static/js/5.5b519bfe.chunk.js.map": "/gestell/g20/static/js/5.5b519bfe.chunk.js.map",
+    "static/js/6.b39b1f30.chunk.js": "/gestell/g20/static/js/6.b39b1f30.chunk.js",
+    "static/js/6.b39b1f30.chunk.js.map": "/gestell/g20/static/js/6.b39b1f30.chunk.js.map",
+    "index.html": "/gestell/g20/index.html",
+    "precache-manifest.318888c49563a516efe2c6e3257e437e.js": "/gestell/g20/precache-manifest.318888c49563a516efe2c6e3257e437e.js",
+    "service-worker.js": "/gestell/g20/service-worker.js",
+    "static/css/3.af3c1da9.chunk.css.map": "/gestell/g20/static/css/3.af3c1da9.chunk.css.map",
+    "static/css/main.78ba73a0.chunk.css.map": "/gestell/g20/static/css/main.78ba73a0.chunk.css.map",
+    "static/js/3.76753332.chunk.js.LICENSE.txt": "/gestell/g20/static/js/3.76753332.chunk.js.LICENSE.txt",
+    "static/js/5.5b519bfe.chunk.js.LICENSE.txt": "/gestell/g20/static/js/5.5b519bfe.chunk.js.LICENSE.txt",
+    "static/js/6.b39b1f30.chunk.js.LICENSE.txt": "/gestell/g20/static/js/6.b39b1f30.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gestell/g20/static/media/logo.99b2f8b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fd6460c.js",
+    "static/css/3.af3c1da9.chunk.css",
+    "static/js/3.76753332.chunk.js",
+    "static/css/main.78ba73a0.chunk.css",
+    "static/js/main.5598a31d.chunk.js"
+  ]
+}
